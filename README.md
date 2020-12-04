@@ -1,3 +1,4 @@
+[![DepShield Badge](https://depshield.sonatype.org/badges/tjs-financial-com/learn-reasonml-workshop/depshield.svg)](https://depshield.github.io)
 # Introduction
 
 Reason is a language that looks and reads like Javascript, writes like Javascript, and even interops nicely with Javascript. But it is in fact a new syntax for OCaml, a powerful statically typed functional programming language. 
